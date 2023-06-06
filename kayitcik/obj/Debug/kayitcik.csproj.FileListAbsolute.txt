@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\kayitcik\kayitcik\bin\Debug\kayitcik.exe.config
+C:\Users\Admin\Desktop\kayitcik\kayitcik\bin\Debug\kayitcik.exe
+C:\Users\Admin\Desktop\kayitcik\kayitcik\bin\Debug\kayitcik.pdb
+C:\Users\Admin\Desktop\kayitcik\kayitcik\obj\Debug\kayitcik.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\kayitcik\kayitcik\obj\Debug\kayitcik.Form1.resources
+C:\Users\Admin\Desktop\kayitcik\kayitcik\obj\Debug\kayitcik.Properties.Resources.resources
+C:\Users\Admin\Desktop\kayitcik\kayitcik\obj\Debug\kayitcik.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\kayitcik\kayitcik\obj\Debug\kayitcik.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\kayitcik\kayitcik\obj\Debug\kayitcik.exe
+C:\Users\Admin\Desktop\kayitcik\kayitcik\obj\Debug\kayitcik.pdb
